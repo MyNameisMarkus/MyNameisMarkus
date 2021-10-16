@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MyNameisMarkus
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning php
+- 🌱 I’m currently learning bruhmoment 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
